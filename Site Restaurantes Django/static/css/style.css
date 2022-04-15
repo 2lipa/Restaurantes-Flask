@@ -1,0 +1,46 @@
+.restaurante_selecionar {
+    width: 900px;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.lista_restaurante {
+    width: 45rem;
+    margin: 15px auto;
+}
+
+.item_restaurante {
+    width: 45rem;
+    margin: 15px auto;
+    padding: 3rem;
+}
+
+.comentario {
+    width: 40rem;
+    margin: 0px auto;
+}
+
+.foto_restaurante {
+    width: 40rem;
+    margin: 0px auto;
+    margin-bottom: 2rem;
+}
+
+.parte-comentario {
+    margin: 2rem 0px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #212529;
+}
+
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #212529;
+}
+
+.mapa {
+    margin: 0px auto;
+    text-align: center;
+}
